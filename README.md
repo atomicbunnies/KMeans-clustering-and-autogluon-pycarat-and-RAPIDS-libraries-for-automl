@@ -8,27 +8,27 @@ Each notebook was executed in my own Google Colab environment and includes the s
 
 ### Part 1 — K-means and Variations
 - Notebook: `Part1/Part1_KMeans.ipynb`
-- Video: <YouTube link>
+- Video: https://youtu.be/PrmyZGloTys
 
 ### Part 2 — AutoGluon Capabilities Landscape
 - Notebook: `Part2/Part2_AutoGluon_Capabilities.ipynb`
-- Video: <YouTube link>
+- Video: https://youtu.be/LljpT1x4n40
 
 ### Part 3 — AutoGluon End-to-End ML
 - Notebook: `Part3/Part3_AutoGluon_EndToEnd_ML.ipynb`
-- Video: <YouTube link>
+- Video: https://youtu.be/L1BY_BS7Ixw
 
 ### Part 4 — NVIDIA RAPIDS vs CPU
 - Notebook: `Part4/Part4_NVIDIA_RAPIDS_CPU_Comparison.ipynb`
-- Video: <YouTube link>
+- Video: https://youtu.be/x4W9TJFbcMM
 
 ### Part 5 — PyCaret Capabilities Landscape
 - Notebook: `Part5/Part5_PyCaret_Capabilities.ipynb`
-- Video: <YouTube link>
+- Video: https://youtu.be/JGxXWuherDE
 
 ### Part 6 — PyCaret MLOps
 - Notebook: `Part6/Part6_PyCaret_MLOps.ipynb`
-- Video: <YouTube link>
+- Video: https://youtu.be/oUNEclxrin8
 
 ## Notes
 - All notebooks were run in Google Colab.
